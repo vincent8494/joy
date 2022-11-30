@@ -1,0 +1,67 @@
+.top{
+<a class="active" href="index.html">Home</a>
+  <a href="appointment.html">Services</a>
+  <a href="contact.html">Contact Us</a>
+  <a href="about.html">About</a>
+}
+body {
+background-color:#00c4cc;
+}
+p{
+text-align : left;
+color : black;
+}
+h1{
+text-align : left;
+color : black;
+}
+button{
+color : blue;
+ <p id="button">BOOK AN APPOINTMENT TODAY!</P>
+}
+.grid-item {
+meta name="viewport" content="width=device-width, initial-scale=1";
+  background-color: #00c4cc;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 100px;
+  font-size: 30px;
+  text-align: center;}
+.grid-container {
+meta name="viewport" content="width=device-width, initial-scale=1";
+  display: grid;
+  grid-template-columns: 600px 600px ;
+  background-color: #00c4cc;
+  padding: 10px;
+}
+.button{
+
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  color: White;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+img{
+float: right;
+}
+.div {
+  padding: 10px;
+  clear: both;
+}
+ul.b {
+  list-style-type: square;
+}
